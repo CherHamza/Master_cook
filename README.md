@@ -1,3 +1,12 @@
+# Contributeurs 
+
+Virginie Giacometti
+
+Sebastien Gautier 
+
+Jeremy Balsemin 
+
+Hamza Cheracher
 
 # Projet Master Cook
 
